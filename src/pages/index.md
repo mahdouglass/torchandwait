@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Torch and Wait
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Growing together through collaborative storybuilding
+subheading: Join us for a stop between adventures
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Torch and Wait
+  description: A "Wait" is an archaic term for a town guard. So come take a break
+    with us during your campaigns and find out what we've been doing. Lay aside
+    your torch and rest for a bit. Perhaps you'll enjoy a story or two.
+description: "Roleplaying games focus on the interaction between players,
+  including the game master. For me, this has been an opportunity to engage with
+  old friends and meet new ones. Building worlds and exploring the depth of
+  vocabulary as I attempt to create a dynamic setting of characters has allowed
+  me to explore new avenues of growth. "
 intro:
   blurbs:
     - image: /img/coffee.png

@@ -9,9 +9,9 @@ mainpitch:
   description: A "Wait" is an archaic term for a town guard. So come take a break
     with us during your campaigns and find out what we've been doing. Lay aside
     your torch and rest for a bit. Perhaps you'll enjoy a story or two.
-description: "Roleplaying games focus on the interaction between players,
-  including the game master. For me, this has been an opportunity to engage with
-  old friends and meet new ones. Building worlds and exploring the depth of
+description: "One of the appeals of roleplaying games is the focus on the
+  interaction between players. For me, this has been an opportunity to engage
+  with old friends and meet new ones. Building worlds and exploring the depth of
   vocabulary as I attempt to create a dynamic setting of characters has allowed
   me to explore new avenues of growth. "
 intro:
@@ -42,12 +42,13 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: A Love for Games
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Wanting to provide the best gaming experience for players involves high
+    points, such as beating a hard enemy or humorous interactions between
+    players or npcs, and low points, such as player deaths or dramatic
+    resolutions. This is something I've had to learn, but I don't know if it
+    works for everyone.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg

@@ -11,8 +11,8 @@ I got my bachelor's degree in Applied Mathematics, a minor in Economics. Then, I
 
 **Home**
 
-I have a beautiful wife who was the first player who agreed to participate in my first campaign. I also have an awesome, 1-year-old son who has graciously agreed to sleep at night and allow us to play. Unfortunately, I do have to shut my office door to prevent my two cats from walking over my plans during gameplay.
+I have a beautiful wife who was the first player that agreed to participate in my first campaign. I also have an awesome, 1-year-old son who has graciously agreed to sleep at night and allow us to play. Unfortunately, I do have to shut my office door to prevent my two cats from walking over my plans during gameplay.
 
 **Hobbies**
 
-I always enjoy creating games. Probably the most exciting thing that I am working on is an Augmented Reality play setting for tabletop games. While this exists on a monitor, I'm working on making this a reality for the hololens.
+I always enjoy creating games. Probably the most exciting thing that I am working on is an Augmented Reality play setting for tabletop games. While this exists on a monitor, I'm working on making this a reality for the Hololens.

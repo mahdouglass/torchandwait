@@ -15,19 +15,24 @@ intro:
         create homebrew material that is then available to the players. This
         helps stay organized and helps when a player isn't present to manage
         their sheet.
-    - image: /img/coffee-gear.png
+    - image: /img/inkarnate_logo.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Inkarnate (https://inkarnate.com/) has been one of the tools that I've
+        used to create battlemaps. Even with the limited selection of an
+        unsubscribed user, there are a number of possibilities to bring the
+        world to life. With a little skill, you can add depth and create large
+        scenes where range actually becomes an issue. Wait, your longbow has
+        disadvantage and that enemy is out of range? You better believe it.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Roll20 (roll20.net) is where I bring my players together. At least, for
+        ambience music and the battlemaps I create. It also helps me let the
+        players know who is in the scene and speaking at any given time. More
+        importantly, it allows them to see the rolls I make so when you forget
+        to disengage from that Ankheg and it scores a critical hit and almost
+        outright kills you, you know I'm not lying. To connect DNDbeyond with
+        roll20, I use beyond20. It is a fantastic tool. I still use dice on the
+        side, but it helps maintain transparency when I feel it is necessary.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.

@@ -34,12 +34,12 @@ intro:
         roll20, I use beyond20. It is a fantastic tool. I still use dice on the
         side, but it helps maintain transparency when I feel it is necessary.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Discord is where I host my audio. Why discord and not roll20? Discord is
+        convenient as I know that players may want to call in rather than sit at
+        a desktop for audio. Shopping episode? Yep. It's also a good forum to
+        have a conversation between players so that the DM can see what they're
+        thinking. It helps planning, so thanks players for having conversations
+        throughout the week. I knew that 4 hours of work wouldn't be wasted.
   heading: An Open Approach
   description: My approach is to keep an open mind. I know some people through
     around the work "railroading" as a term where you restrict your players to a

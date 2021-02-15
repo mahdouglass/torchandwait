@@ -23,7 +23,7 @@ intro:
         world to life. With a little skill, you can add depth and create large
         scenes where range actually becomes an issue. Wait, your longbow has
         disadvantage and that enemy is out of range? You better believe it.
-    - image: /img/tutorials.png
+    - image: /img/roll20-logo.png
       text: >
         Roll20 (roll20.net) is where I bring my players together. At least, for
         ambience music and the battlemaps I create. It also helps me let the

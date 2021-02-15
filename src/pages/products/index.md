@@ -33,7 +33,7 @@ intro:
         outright kills you, you know I'm not lying. To connect DNDbeyond with
         roll20, I use beyond20. It is a fantastic tool. I still use dice on the
         side, but it helps maintain transparency when I feel it is necessary.
-    - image: /img/meeting-space.png
+    - image: /img/discord.png
       text: Discord is where I host my audio. Why discord and not roll20? Discord is
         convenient as I know that players may want to call in rather than sit at
         a desktop for audio. Shopping episode? Yep. It's also a good forum to

@@ -17,32 +17,24 @@ description: "Roleplaying games focus on the interaction between players,
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: My approach is to keep an open mind. I know some people through around the
+        work "railroading" as a term where you restrict your players to a
+        predefined path. While it is nice to have a predictable setting, that
+        might not work with all of your players.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Miniatures are a fun way to indulge in a dungeons and dragons. While I
+        haven't had much use for them online, I have purchased a number that I
+        would like to show off. I am by no means a professional painter, but I
+        hope you enjoy looking through them.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Battlemaps are one of the things that I have made great use of since
+        starting dungeons and dragons. I have made many of my own to fill
+        different needs. Here, I talk about the resources I've used and some of
+        the maps that I have.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Discussing character creation and some of the aspects that I find fun.
+        I'll also present some of the homebrew concepts that I plan to use in my
+        game.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

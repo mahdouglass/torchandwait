@@ -20,7 +20,7 @@ In my last post, I mentioned that I had started my campaign with my wife and thr
 
 **Amaranth (token shown in thumbnail, unknown link)**: A Wooden Warforged druid. His long history is clouded by an injury that remains unhealed. Having traded hands for years in the slave trade, Amaranth finally found companionship with Amelrelle and escaped with her.
 
-I had the characters roll for stats. While this can definitely result in god-like characters, part of it is nice as having the unpredictability of the fates force interesting scenarios. For instance, Amaranth rolled a 4. While his other stats are quite high, the 4 was quite the deviation. So where does a druid put a 4? Into intelligence of course. It played well into his character though. The 4 is justified as a substantial injury that caused Amaranth to forget many of the skills he had accrued in his past, with his history being a blur. Thus, this seemingly immortal being can exist in the world while still having to start from level 1.
+I had the characters roll for stats. While this can definitely result in god-like characters, part of it is nice as having the unpredictability of the fates force interesting scenarios. For instance, Amaranth rolled a 5. While his other stats are quite high, the 5 was quite the deviation. So where does a druid put a 5? Into intelligence of course. It played well into his character though. The 5 is justified as a substantial injury that caused Amaranth to forget many of the skills he had accrued in his past, with his history being a blur. Thus, this seemingly immortal being can exist in the world while still having to start from level 1.
 
 Each of the characters rolled decently, telling them to roll 4d6 and drop the lowest. If the total sum was less than 70 than they should reroll. Why 70? With 6 stats, I wasn’t worried about extreme numbers. On average, you can have pretty high numbers offset by low numbers. The alternative was that if they rolled poorly, but managed to roll an 18 (something everyone gets excited about) they could add the remaining points required to reach 70 to the lowest score. If you have an 18 and still are not at 70, you’re probably going to play a glass cannon. Some people like that, I’m not going to discourage it.
 
@@ -49,7 +49,5 @@ What the party didn't understand at this point was that Mondath was at the south
 It was a quick session to me. There was a lot of tracking of health (I rolled health for each enemy, initiative for each enemy, and damage for each attack). Some of the enemies were already hurt. This allowed for the party to make use of perception checks that helped them in combat. Otherwise, why use an action to do so? There were a lot of things I learned during my first session ever. There was a lot of dead air as the party is full of introverts. Only one of my party, my wife, had met each of the players. You could tell that no one wanted to step on each other's toes. In time, I hoped, this would go away as each person became more familiar with their characters and the other players. 
 
 In the end, I had more fun than I had for most of the quarantine. It was safe, engaging, stretched my creativity, and allowed me to interact with others. I knew that I had to do this more. It was awesome.
-
-
 
 <!--EndFragment-->

@@ -40,6 +40,12 @@ intro:
         have a conversation between players so that the DM can see what they're
         thinking. It helps planning, so thanks players for having conversations
         throughout the week. I knew that 4 hours of work wouldn't be wasted.
+    - image: /img/token_tool.jpg
+      text: The Token Tool (https://www.rptools.net/toolbox/token-tool/) is what I use
+        to create tokens. It takes a few seconds to take an image and create a
+        token for use. I haven't quite gotten to the point where I've printed
+        off tokens to create magnets, but the possibilities are there. Kudos to
+        the creators of this tools as I have used it extensively.
   heading: An Open Approach
   description: My approach is to keep an open mind. I know some people through
     around the work "railroading" as a term where you restrict your players to a

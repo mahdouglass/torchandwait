@@ -21,17 +21,17 @@ intro:
         work "railroading" as a term where you restrict your players to a
         predefined path. While it is nice to have a predictable setting, that
         might not work with all of your players.
-    - image: /img/coffee-gear.png
+    - image: /img/beholder.jpg
       text: Miniatures are a fun way to indulge in a dungeons and dragons. While I
         haven't had much use for them online, I have purchased a number that I
         would like to show off. I am by no means a professional painter, but I
         hope you enjoy looking through them.
-    - image: /img/tutorials.png
+    - image: /img/coffee-gear.png
       text: Battlemaps are one of the things that I have made great use of since
         starting dungeons and dragons. I have made many of my own to fill
         different needs. Here, I talk about the resources I've used and some of
         the maps that I have.
-    - image: /img/meeting-space.png
+    - image: /img/hero-screenshot-3-.png
       text: Discussing character creation and some of the aspects that I find fun.
         I'll also present some of the homebrew concepts that I plan to use in my
         game.

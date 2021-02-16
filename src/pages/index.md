@@ -26,7 +26,7 @@ intro:
         haven't had much use for them online, I have purchased a number that I
         would like to show off. I am by no means a professional painter, but I
         hope you enjoy looking through them.
-    - image: /img/coffee.png
+    - image: /img/rook_2.png
       text: Battlemaps are one of the things that I have made great use of since
         starting dungeons and dragons. I have made many of my own to fill
         different needs. Here, I talk about the resources I've used and some of

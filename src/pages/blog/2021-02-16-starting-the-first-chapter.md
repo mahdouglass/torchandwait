@@ -10,6 +10,10 @@ tags:
 ---
 <!--StartFragment-->
 
+*[\*Spoilers for Hoard of the Dragon Queen\*](https://www.dndbeyond.com/sources/hotdq)*
+
+![](/img/ddhoardofthedragonqueen.jpg "Hoard of the Dragon Queen (Play your own campaign with this manual!)")
+
 In my last post, I mentioned that I had started my campaign with my wife and three people who I hardly knew. The creation of the characters was something that I glossed over for the sake of the players and not revealing much of the backstories in case those players read this. However, I did want to introduce them a little bit for the sake of the people who are not in the campaign reading this.
 
 **Ijaia**: The Goliath bard. A formidable woman driven out of her tribe for being a dreamer. Wandering far to the West of Faerun toward the Sword Coast, Ijaia fell into the company of Cora and became a bodyguard. Perhaps they mistook the bard for a barbarian.

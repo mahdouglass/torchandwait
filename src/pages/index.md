@@ -16,7 +16,7 @@ description: "One of the appeals of roleplaying games is the focus on the
   me to explore new avenues of growth. "
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/the_celerargyrum.png
       text: My approach is to keep an open mind. I know some people through around the
         work "railroading" as a term where you restrict your players to a
         predefined path. While it is nice to have a predictable setting, that
@@ -26,7 +26,7 @@ intro:
         haven't had much use for them online, I have purchased a number that I
         would like to show off. I am by no means a professional painter, but I
         hope you enjoy looking through them.
-    - image: /img/coffee-gear.png
+    - image: /img/coffee.png
       text: Battlemaps are one of the things that I have made great use of since
         starting dungeons and dragons. I have made many of my own to fill
         different needs. Here, I talk about the resources I've used and some of

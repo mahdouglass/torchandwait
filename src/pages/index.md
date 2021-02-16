@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Torch and Wait
-image: /img/home-jumbotron.jpg
+image: /img/mountain-trail.jpg
 heading: Growing together through collaborative storybuilding
 subheading: Join us for a stop between adventures
 mainpitch:

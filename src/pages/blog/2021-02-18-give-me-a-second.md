@@ -2,14 +2,18 @@
 templateKey: blog-post
 title: Give me a second
 date: 2021-02-18T01:02:00.564Z
-description: A new player, adapting the story to player decisions. Things are
-  different from a first session.
+description: >+
+  A new player, adapting the story to player decisions. Things are different
+  from a first session.
+
 featuredpost: true
 featuredimage: /img/ijaia_token.png
 tags:
   - DM
 ---
 <!--StartFragment-->
+
+(Thumbnail: Fantastic art chosen by Ijaia for token found [here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.nz%2Fdarianraill%2Fgoliathgiant-female%2F&psig=AOvVaw3ryJFaMuR6eHMeu2h3c74Y&ust=1613697289557000&source=images&cd=vfe&ved=2ahUKEwjk8oL_oPLuAhWcAc0KHWaFDpQQjRx6BAgAEAc))
 
 The work that went into the first session was not too daunting. I had the flexibility to prepare what was going to happen. As the game was planned two weeks out, I had enough opportunities to put things together. I had ideas what to do for the second session, but I really didn’t know where the party was going to get to. But that wasn’t the only thing to happen. One of the players had a sibling who wanted to join the game.
 

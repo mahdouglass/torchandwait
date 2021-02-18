@@ -6,9 +6,9 @@ heading: Growing together through collaborative storybuilding
 subheading: Join us for a stop between adventures
 mainpitch:
   title: Torch and Wait
-  description: A "Wait" is an archaic term for a town guard. So come take a break
-    with us during your campaigns and find out what we've been doing. Lay aside
-    your torch and rest for a bit. Perhaps you'll enjoy a story or two.
+  description: Come take a break with us in between your campaigns and find out
+    what we've been doing. Lay aside your torch and rest for a bit. Perhaps
+    you'll enjoy a story or two.
 description: "One of the appeals of roleplaying games is the focus on the
   interaction between players. For me, this has been an opportunity to engage
   with old friends and meet new ones. Building worlds and exploring the depth of

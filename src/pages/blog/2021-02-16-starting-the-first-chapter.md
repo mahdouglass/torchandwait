@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Starting the First Chapter
 date: 2021-02-16T17:06:25.760Z
-description: How did the campaign start? *Spoilers for Hoard of the Dragon Queen*
+description: "How did the campaign start? "
 featuredpost: true
 featuredimage: /img/amaranth_token.png
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 <!--StartFragment-->
 
-*[\*Spoilers for Hoard of the Dragon Queen\*](https://www.dndbeyond.com/sources/hotdq)*
+*[Spoilers for Hoard of the Dragon Queen](https://www.dndbeyond.com/sources/hotdq)*
 
 ![](/img/ddhoardofthedragonqueen.jpg "Hoard of the Dragon Queen (Play your own campaign with this manual!)")
 

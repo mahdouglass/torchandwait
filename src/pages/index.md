@@ -36,11 +36,11 @@ intro:
         I'll also present some of the homebrew concepts that I plan to use in my
         game.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "I want to offer an opportunity for people to see what other people
+    have done with Dungeons and Dragons. It's hard to learn something new.
+    Sometimes the choices you make aren't appreciated by everyone. With the
+    right group and the right mentality, you can create a game that people will
+    enjoy. "
 main:
   heading: A Love for Games
   description: >

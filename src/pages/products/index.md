@@ -65,7 +65,7 @@ main:
     image: /img/20210218_101302.jpg
   image3:
     alt: "Custom Mini: Emilia Glashtop, created on HeroForge"
-    image: /img/20210218_101325.jpg
+    image: /img/products-grid1.jpg
 testimonials:
   - author: Amaranth
     quote: It's one of the cool parts of running an existing setting; the DM gets

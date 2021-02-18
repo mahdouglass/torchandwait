@@ -58,22 +58,19 @@ main:
     a campaign for any setting. I'll show you some of the ones I've found to be
     helpful. I'll demonstrate how I've used them and where I've applied them.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Nolzur's Ankheg
+    image: /img/20210218_101223.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Nolzur's Mimic
+    image: /img/20210218_101302.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: "Custom Mini: Emilia Glashtop, created on HeroForge"
+    image: /img/20210218_101325.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Amaranth
+    quote: It's one of the cool parts of running an existing setting; the DM gets
+      surprised with the players sometimes.
+full_image: /img/stragglers.jpg
 pricing:
   heading: Monthly subscriptions
   description: No subscriptions

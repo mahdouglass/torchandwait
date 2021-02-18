@@ -22,10 +22,10 @@ intro:
         predefined path. While it is nice to have a predictable setting, that
         might not work with all of your players.
     - image: /img/beholder.jpg
-      text: Miniatures are a fun way to indulge in a dungeons and dragons. While I
-        haven't had much use for them online, I have purchased a number that I
-        would like to show off. I am by no means a professional painter, but I
-        hope you enjoy looking through them.
+      text: Miniatures are a fun way to indulge in Dungeons and Dragons or other
+        tabletop games. While I haven't had much use for them online, I have
+        purchased a number that I would like to show off. I am by no means a
+        professional painter, but I hope you enjoy looking through them.
     - image: /img/graveyard.png
       text: Battlemaps are one of the things that I have made great use of since
         starting dungeons and dragons. I have made many of my own to fill

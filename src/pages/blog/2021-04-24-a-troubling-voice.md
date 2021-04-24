@@ -10,13 +10,13 @@ featuredimage: /img/cora_token_custom.png
 tags:
   - DM
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +55,9 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="372">
@@ -628,9 +628,9 @@ tags:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Mention"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -654,7 +654,7 @@ tags:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -662,17 +662,19 @@ One of the things that I feel very passionate about it the idea of creating some
 
 My kind of people are those who think deeply about the characters that they build. When I build a character, I think of who they are first. Where did they grow up, what troubles them, who do they want to be? Then I find the class that fits best. Sometimes the classes don’t have the specifics and concessions are either made or the specifics are created. I don’t mind homebrewing with care. The difficulty comes when you have this character that you sometimes dream that you are and then you need to hand that character’s path over to the Dungeon Master.
 
-With some of the Dungeon Masters I’ve heard about or some of the games I’ve managed to play in since before I started this blog, I would not deny that I’ve been disappointed with the treatment. When you come to the game with a backstory or background that can actually be impactful and it is ignored, it’s pretty defeating. It takes a key element out of the game and you just become a random adventure that could have been anybody. Character’s that have been tended to deserve care and attention.
+With some of the Dungeon Masters I’ve heard about or some of the games I’ve managed to play in since before I started this blog, I would not deny that I’ve been disappointed with the treatment. When you come to the game with a backstory or background that can actually be impactful and it is ignored, it’s pretty defeating. It takes a key element out of the game and you just become a random adventurer that could have been anybody. Characters that have been tended to deserve care and attention.
 
 When Cora came to play, I asked for a backstory. The characters could choose how deep they wanted to go and I would integrate those characters into the game as written. As Cora was the first player with this done, I had ample time to plan. As a warlock, there’s plenty of room for story as you’ve made a pact with a patron. It almost gives a clear direction to follow. To avoid any spoilers for my players (who are likely the only ones who are going to read this), I’ll leave it to what they already know.
 
-After the dragon attack on the keep, everyone went searching for the old tunnel. Everyone, except for Cora. Cora decided to take a short rest in the parapet watching the guards and Governor Nighthill. As she rested, a cold came over her that soon erupted into soothing heat. The shock caused her focus to blur as she began to hear a voice talking to her. Observations about mortality, how blessings of power can grant safety and warrant confidence, and the usual stuff. More directly, Cora was asked if she would like more than a taste of her patron’s power.
+After the dragon attack on the keep, everyone went searching for the old tunnel. Everyone, except for Cora. Cora decided to take a short rest in the parapet watching the guards and Governor Nighthill. As she rested, a cold came over her that soon erupted into soothing warmth. The shock caused her focus to blur as she began to hear a voice talking to her. Observations about mortality, how blessings of power can grant safety and warrant confidence, and the usual stuff. More directly, Cora was asked if she would like more than a taste of her patron’s power.
 
 I set this in motion as a milestone level up. For the campaign, I use experience. This helps me indicate to the players how their actions impact the world. I also have based experience off of their character and their alignment. I’m sure a number of people groan when they think about this. Really, it is a way to ensure that the characters understand that their in-game actions have real implications. The way I give experience reinforces that.
 
 However, at this point I had planned for each of the characters in my campaign to have a special level 3 moment. Cora’s was to find a guy named Marius, find out some information, and then kill him. For Cora, who wasn’t particularly interested in killing, this was quite intimidating. On top of that, I had some twists and turns plans that would make this task far more difficult than she would think. This would be the first step down an intricate web of events that connect her to her backstory, but also connect her to the other players in the campaign.
 
 One of the added bonuses to this interaction was that Cora was interacting with Nighthill, who was still pacing in the parapet. While the likely candidate for the face of the party and having the highest charisma, Cora, has been getting called “Little One” by basically everyone in town and at the keep. And she does not like it. Thus, she finds ample opportunity to talk smack to the people at the keep and with appropriate condescension. After all, this group of level 1 adventurers managed to save the keep from the dragon. I love that fact that Cora does not like Governor Nighthill. It makes for great interactions were a fledging adventurer is aggravated by the helplessness of the Governor of the town. Perhaps a taste of power could get Cora the respect that she deserves.
+
+This little part of the story took place completely apart from the rest of the party. I asked if Cora would have some time during the week to have a quick chat. This made for the first DM secret that took place in the game. While I intended to have this with each of my players at some point, Cora was the perfect candidate. Granted, these are additions to a campaign as written. Thus, significant deviations are expected. Luckily, the expediency of the campaign requires the players to keep pushing and "remember" that there are secrets working in the background.
 
 While I could have settled to have the campaign as written be the only tasks my characters did, I feel there is another level of depth that deserves to be explored. Not for the vanity of the Dungeon Master, but for the players who are investing in you as a Dungeon Master. They have placed their characters in your hands. At that point, they can only play in the story you build together. As you trust in each other, everyone can walk away edified, even the written character.
 

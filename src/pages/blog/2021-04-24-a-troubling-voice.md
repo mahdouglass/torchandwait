@@ -3,7 +3,8 @@ templateKey: blog-post
 title: A Troubling Voice
 date: 2021-04-24T02:42:06.667Z
 description: "Highlight of Cora Roundbottom: Interactions while the party is
-  looking for a hidden door."
+  looking for a hidden door. (Thumbnail created from art designed by the
+  player.)"
 featuredpost: true
 featuredimage: /img/cora_token_custom.png
 tags:

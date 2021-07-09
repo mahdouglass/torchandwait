@@ -3,10 +3,10 @@ templateKey: blog-post
 title: A Swift Pursuit
 date: 2021-07-09T01:27:41.146Z
 description: Marius drags Cora along and the party struggles to keep up. An
-  unfortunate delay could be deadly. (Thumbnail is an image that the player who
-  plays Amelrelle created)
+  unfortunate delay could be deadly. (Thumbnail is an image of the token used
+  for Escobert found at https://andaria.fandom.com/wiki/Escobert_the_Red)
 featuredpost: true
-featuredimage: /img/amelrelle_token.png
+featuredimage: /img/escobert_token.png
 tags:
   - GM
 ---

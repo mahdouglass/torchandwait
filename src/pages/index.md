@@ -5,7 +5,7 @@ image: /img/mountain-trail.jpg
 heading: Growing together through collaborative storybuilding
 subheading: Join us for a stop between adventures
 mainpitch:
-  title: Torch and Wait
+  title: Torch and Waite
   description: Come take a break with us in between your campaigns and find out
     what we've been doing. Lay aside your torch and rest for a bit. Perhaps
     you'll enjoy a story or two.

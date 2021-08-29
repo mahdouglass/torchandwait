@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Torch and Wait
+title: Torch and Waite
 image: /img/mountain-trail.jpg
 heading: Growing together through collaborative storybuilding
 subheading: Join us for a stop between adventures
